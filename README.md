@@ -8,6 +8,6 @@ You can use this contents for any purposes, however please read the Creative Com
 Kra files can be exported in PNG,JPG,JPEG,PSD, etc. with [Krita Software](https://github.com/KDE/krita).
 Some of the artworks can be printed as a poster for living rooms,schools,universities and museums(especcialy open source related exhibitions).
 
-#License
+# License
 
 All of the Artworks licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0).
