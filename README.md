@@ -1,6 +1,6 @@
 # Open-Artwork-Repository
 
-Free and Open artworks created with Krita by sinafi.
+Free artworks created with Krita by sinafi.
 
 Please note that I am not an artist or graphic designer.
 
@@ -13,4 +13,4 @@ Some of the artworks can be printed as a poster for living rooms,schools,univers
 
 # License
 
-All of the Artworks licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0).
+All of the artworks licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0).
